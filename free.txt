@@ -1,0 +1,3 @@
+on
+# on = DummySols is free for everyone, no key needed
+# off = keys work as normal again
